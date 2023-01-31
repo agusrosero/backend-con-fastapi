@@ -1,7 +1,17 @@
-<h1> Project-Backend FastAPI 🎓 </h1>
+# Project-Backend FastAPI 🎓 
+## Install Instructions
 
-<div>
-  <h2>Create virtual enviorment</h2>
-  <p>python3 -m virtualenv venv</p>
-</div>
+## Create virtual enviorment</h2>
+```bash
+python3 -m virtualenv venv
+```
 
+## FastAPI Install
+```bash
+pip3 install "fastapi[all]"
+```
+
+## Run server
+```bash
+unicorn main:app --reload
+```
