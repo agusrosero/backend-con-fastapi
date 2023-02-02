@@ -15,3 +15,13 @@ pip3 install "fastapi[all]"
 ```bash
 unicorn main:app --reload
 ```
+
+## Install python-jose
+```bash
+pip3 install "python-jose[cryptography]"
+```
+
+## Install passlib
+```bash
+pip install "passlib[bcrypt]"
+```
