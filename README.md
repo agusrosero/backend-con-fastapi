@@ -1,7 +1,8 @@
 # Project-Backend FastAPI 🎓 
 ## Install Instructions
 
-## Create virtual enviorment</h2>
+## Create virtual enviorment
+Para evitar problemas con paquetes.
 ```bash
 python3 -m virtualenv venv
 ```
