@@ -13,6 +13,7 @@ pip3 install "fastapi[all]"
 ```
 
 ## Run server
+main = main.py y app = instancia de la clase.
 ```bash
 uvicorn main:app --reload
 ```
