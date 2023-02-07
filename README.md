@@ -25,3 +25,7 @@ pip3 install "python-jose[cryptography]"
 ```bash
 pip install "passlib[bcrypt]"
 ```
+## Install pymongo
+```bash
+pip3 install pymongo
+```
