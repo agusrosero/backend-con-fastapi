@@ -14,7 +14,7 @@ pip3 install "fastapi[all]"
 
 ## Run server
 ```bash
-unicorn main:app --reload
+uvicorn main:app --reload
 ```
 
 ## Install python-jose
